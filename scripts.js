@@ -1,4 +1,4 @@
- <script>  
+ 
       $(document).ready(function(){  
            $('#search').keyup(function(){  
                 search_table($(this).val());  
@@ -23,4 +23,4 @@
                 });  
            }  
       });  
- </script>
+ 
